@@ -4,3 +4,4 @@
 ####
 
 this line is to see if `git fetch origin master:master` works as i expected
+this line is to see if `git fetch -u origin master:master` works as i expected
