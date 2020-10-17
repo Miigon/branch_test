@@ -1,6 +1,8 @@
 # here's some code
 # here's some development happened on branch `develop`
 # some_code
+
+continue develop
 ####
 
 this line is to see if `git fetch origin master:master` works as i expected
